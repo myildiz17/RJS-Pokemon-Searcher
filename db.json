@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Mesude",
+      "hp": "23",
+      "sprites": {
+        "front": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVby9YVDVZycl-rvHdTjO6JksD5F1uX-BrW6XnJDLVpSlT_bI1H7NZVeipZh6OXmUkrv1fYg&usqp=CAc",
+        "back": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvRK2fk2oGjPuap0ALlphooCgn2tSO9c-SkJfht0kJIPlygoXepI70QCGqkc32hevQR7O4GEs&usqp=CAc"
+      },
+      "id": 151
     }
   ]
 }
